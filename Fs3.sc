@@ -12,8 +12,8 @@ Fs3{
 	classvar <api_key = "3c7f3bbe2cb650ec4c92389b4097dfe15aa16e54";
 	classvar <api_id = "ebc822b86af0dbdc01e4";
 	classvar <token_prefix = "token=";
-	classvar <authorization = "768346b65c011348288ce9365496b341f1c7407e";
-	classvar <access_token = "9f95ade910418fbd699b6fefdb41cdd46039f3ca";
+	classvar <authorization = "";
+	classvar <access_token = "";
 
 	// defaults
 	classvar <>local_dir;
