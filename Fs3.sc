@@ -9,8 +9,8 @@ Fs3{
 	classvar <uri_sound_download = "/sounds/%/download/";
 
 	//authentication
-	classvar <api_key = "3c7f3bbe2cb650ec4c92389b4097dfe15aa16e54";
-	classvar <api_id = "ebc822b86af0dbdc01e4";
+	classvar <api_key = "";
+	classvar <api_id = "";
 	classvar <token_prefix = "token=";
 	classvar <authorization = "";
 	classvar <access_token = "";
